@@ -49,6 +49,7 @@ table {
 
 * {
     box-sizing: border-box;
+    color: white;
 }
 
 html {
@@ -94,6 +95,7 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+
 }
 
 /* spacer */
